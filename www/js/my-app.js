@@ -71,7 +71,7 @@ var $$idcondominioteste = "106";
 var $$idblocoteste = "2340";
 var $$iddomicilioteste = "12449";
 var $$senderID = "1068846780206";
-var $$testelocal = true;
+var $$testelocal = false;
 logado();
 
 //desabilita pdf se for ios
