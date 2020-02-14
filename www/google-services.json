@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068846780206",
+    "firebase_url": "https://condominio-facil.firebaseio.com",
+    "project_id": "condominio-facil",
+    "storage_bucket": "condominio-facil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068846780206:android:c0839a36f3693b06da74bf",
+        "android_client_info": {
+          "package_name": "com.condominiofacil.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068846780206-7siiuuloho329e8lbm3fgfbaiplh1ndv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_LVnCpgl8QmccQ-qOEY5UmVfemC2umo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068846780206-7siiuuloho329e8lbm3fgfbaiplh1ndv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068846780206-1vq0197adaq8l5ls82kqvpmstdndfj2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.condominiofacil.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
