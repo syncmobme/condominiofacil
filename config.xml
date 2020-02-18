@@ -4,7 +4,7 @@
 id="com.condominiofacil.ios"
 id="com.condominiofacil.android"
  -->
-<name>Condomíno Fácil</name>
+<name>Condomínio Fácil</name>
 <description>Moradores e condomínios conectados</description>
 <author>Syncmob</author>
 <content src="index.html"/>
@@ -188,7 +188,7 @@ id="com.condominiofacil.android"
 <icon platform="ios" src="package-assets/icon-apple-120.png" width="120" height="120"/>
 <icon platform="ios" src="package-assets/icon-apple-144.png" width="144" height="144"/>
 <icon platform="ios" src="package-assets/icon-apple-152.png" width="152" height="152"/>
-<!--<icon platform="ios" src="package-assets/icon-apple-167.png" width="167" height="167"/>-->
+<icon platform="ios" src="package-assets/icon-apple-167.png" width="167" height="167"/>
 <icon platform="ios" src="package-assets/icon-apple-180.png" width="180" height="180"/>
 <icon platform="ios" src="package-assets/icon-apple-187.png" width="187" height="187"/>
 <icon platform="ios" src="package-assets/icon-apple-512.png" width="512" height="512"/>
