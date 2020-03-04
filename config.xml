@@ -4,7 +4,7 @@
 id="com.condominiofacil.ios"
 id="com.condominiofacil.android"
  -->
-<name>Condomínio Fácil Adm</name>
+<name>Condomínio Fácil Adm</name> 
 <description>Moradores e condomínios conectados</description>
 <author>Syncmob</author>
 <content src="index.html"/>
